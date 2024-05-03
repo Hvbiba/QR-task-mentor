@@ -1,0 +1,16 @@
+body{
+    background-color: #add8e6;
+}
+#conatainer{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
+#iamgeContainer{
+    background-color: #3d93b0;
+}
+#iamgeContainer img {
+    padding: 30px;
+}
